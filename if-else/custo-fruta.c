@@ -4,7 +4,7 @@ menos	 doze.	 Escreva	 um	 programa	 que	 leia	 o
 número	 de	 maçãs	 compradas,	 calcule	 e	 escreva	 o	 
 valor   total	da	compra.*/
 
-#include <stdio.h>
+    #include <stdio.h>
 
 int main()
 {

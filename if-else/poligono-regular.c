@@ -10,7 +10,7 @@ conforme	o	caso.	 − Caso	 o	 número	 de	 lados	 seja	 inferior	 a	 3
 escrever	 NÃO	 É	 UM	 POLÍGONO.	 − Caso	o	número	de	lados	seja	superior
 a	5	escrever	POLÍGONO	NÃO	 IDENTIFICADO.*/
 
-#include <stdio.h>
+    #include <stdio.h>
 
 int main()
 {

@@ -5,7 +5,7 @@ ou	Escaleno.	Sendo	que:
 − Triângulo	Isóscele:	possui	2	lados	iguais.
 − Triângulo	Escaleno:	possui	3	lados	diferentes*/
 
-#include <stdio.h>
+    #include <stdio.h>
 
 int main()
 {

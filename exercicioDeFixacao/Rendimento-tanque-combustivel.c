@@ -5,6 +5,7 @@ dados acima e a capacidade do tanque. Ao final, o algoritmo
 deve calcular e mostrar quantos quilômetros o seu carro faz
 com um tanque cheio.*/
 
+    #include <stdio.h>
 
  int main()
 {
