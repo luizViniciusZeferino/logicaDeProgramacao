@@ -34,7 +34,7 @@ int main()
     }
  
     printf("O menor valor do vetor é: %i \n", menorValor);
-    printf("O maior valor do vetor é: %i", maiorValor); 
+    printf("O maior valor do vetor é: %i \n", maiorValor); 
     
 
 
